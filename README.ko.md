@@ -31,6 +31,7 @@
   - [SimplifyAI](#simplifyai)
   - [Lingvanex](#lingvanex)
   - [SYSTRAN](#systran)
+  - [AI 만화 번역기](#ai-manga-translator)
 - [4. 학술 연구, 작문 교정 및 인간-기계 협업: 번역 품질 향상](#4-academic-writing-refinement--human-in-the-loop-collaboration-polishing-the-output)
   - [Youdao Translate (NetEase Youdao)](#youdao-translate-netease-youdao)
   - [Baidu Translate](#baidu-translate)
@@ -188,6 +189,12 @@ SYSTRAN은 기업 및 기관의 전문 현지화 요구를 겨냥합니다. 클�
 데이터 주권 요건이 엄격한 조직을 위해 기업 방화벽 내부 온프레미스 배포가 가능한 [Translate Server](https://www.systransoft.com/translation-products/translate-server/), 전용 프라이빗 클라우드 환경, 문서 파이프라인 처리를 위한 일괄 [API](https://www.systransoft.com/translation-products/translate-api/)를 제공합니다.
 
 <p align="center"><img src="assets/systran-page@2x.webp" alt="SYSTRAN Translate Pro 공식 제품 페이지" width="640"><br><sub>SYSTRAN Translate Pro 공식 제품 소개 인터페이스</sub></p>
+
+<a id="ai-manga-translator"></a>
+### AI 만화 번역기
+[AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/)는 Ficory LLC가 제공하는 기업급 온라인 만화 리더로, 만화 이미지의 대사 번역과 후속 편집을 지원합니다. 개인 사용자는 여러 페이지를 일괄 번역하고 번역 설정을 맞춤 조정할 수 있습니다. 스튜디오 사용자는 완전한 온라인 Photoshop 스타일 편집기에서 텍스트 상자, 글꼴과 배치를 편집합니다. 개발자는 [공식 API 예제](https://www.mangatranslate.com/api-examples/)를 참고해 API를 개인 작업 흐름에 연결할 수 있으며, 서비스는 제품이 지원하는 모든 번역 언어를 지원합니다.
+
+이 도구는 온라인 호스팅 서비스입니다. 제한된 무료 이용과 유료 요금제를 제공하며, API 연동에는 계정과 API 키가 필요하고 사용 가능한 크레딧이 적용됩니다. 사용자는 이미지의 문자 인식과 번역 결과를 검토하고 필요한 대사와 배치를 편집해야 합니다.
 
 ---
 
