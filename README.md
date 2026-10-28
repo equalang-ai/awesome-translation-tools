@@ -279,6 +279,13 @@ Developers, privacy-conscious teams, and academic researchers often need inspect
 
 <p align="center"><img src="assets/pot-desktop-page.webp" alt="Pot desktop translation official GitHub repository page" width="640"><br><sub>Official Pot desktop client repository overview highlighting multi-interface translation, OCR, and clipboard workflows</sub></p>
 
+#### SoloPup Subtitle Studio
+[SoloPup Subtitle Studio](https://github.com/OakcoderX/solopup-subtitle-studio) (MIT) is a local browser workspace for reviewing English subtitles against Chinese-language audio, with separate source/translation tracks and SRT/ITT export. Version 2.0.0-rc.5 is a public preview.
+
+- **Review workflow**: Imports corresponding Chinese and English SRT screens, compares text and timing against the video, and preserves edits and review decisions. Also offers an ordinary/SDH accessibility-caption workflow.
+- **Local versus cloud**: Reviewing an existing subtitle pair requires no AI account. Optional Qwen cloud processing uses the user's provider account, may incur charges, and sends required task inputs to that provider. Optional local ASR requires separate dependencies and model weights; the application is not itself a bundled offline translation engine.
+- **Boundaries**: Automatic production targets English US/UK; bilingual controls use Chinese. Syllable estimates and format checks do not replace human audiovisual review. macOS has been tested locally; Windows/Linux manual acceptance is incomplete.
+
 #### Translate Shell
 [Translate Shell](https://github.com/soimort/translate-shell) (The Unlicense / Public Domain) is a versatile command-line translation tool (executable `trans`) for Unix-like terminal environments.
 
