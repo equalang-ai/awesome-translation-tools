@@ -20,6 +20,7 @@ We are the **[Equalang](https://equalang.com/?utm_source=github)** team. This di
   - [Microsoft Translator](#microsoft-translator)
   - [Papago](#papago)
   - [iTranslate](#itranslate)
+  - [Crazy Translator](#crazy-translator)
 - [2. In-Context Web Reading & Language Learning: Reading Without Leaving the Page](#2-in-context-web-reading--language-learning-reading-without-leaving-the-page)
   - [Immersive Translate](#immersive-translate)
   - [Mate Translate](#mate-translate)
@@ -96,6 +97,12 @@ For web page translation, available entry points differ between platforms: NAVER
 It also provides downloadable packs for common travel expressions and basic phrasebooks through its [offline tools](https://itranslate.com/features/offline-translations/index.html), making it practical to review essential phrases before traveling. Feature availability varies across operating systems, and offline voice capabilities are restricted to a select list of major languages.
 
 <p align="center"><img src="assets/itranslate-page@2x.webp" alt="iTranslate official homepage" width="640"><br><sub>iTranslate homepage featuring mobile application interface previews</sub></p>
+
+### Crazy Translator
+
+[Crazy Translator](https://fengkuangfanyi.com/) is a mobile translation app for text, image, screen, document and video translation in 200+ languages, available on iOS and Android. Its screen translation translates other apps on the phone, including comics, games and foreign-language apps, in real time.
+
+It also translates photos and screenshots, documents in common formats, and videos with bilingual subtitles, making it a practical companion for reading and watching foreign-language content on the go.
 
 ---
 
@@ -409,3 +416,4 @@ To maintain the practical utility and factual accuracy of this directory, entrie
 32. [Argos Translate Official GitHub Repository](https://github.com/argosopentech/argos-translate)
 33. [Pot Desktop Translation Official GitHub Repository](https://github.com/pot-app/pot-desktop)
 34. [Translate Shell Official GitHub Repository](https://github.com/soimort/translate-shell)
+35. [Crazy Translator Official Website](https://fengkuangfanyi.com/)
