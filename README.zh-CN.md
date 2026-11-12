@@ -20,6 +20,7 @@
   - [3. Microsoft Translator（微软翻译）](#3-microsoft-translator微软翻译)
   - [4. Papago](#4-papago)
   - [5. iTranslate](#5-itranslate)
+  - [疯狂翻译师](#疯狂翻译师)
 - [二、网页阅读、划词与语言学习：在阅读现场获取语境](#二网页阅读划词与语言学习在阅读现场获取语境)
   - [6. 沉浸式翻译（Immersive Translate）](#6-沉浸式翻译immersive-translate)
   - [7. Mate Translate](#7-mate-translate)
@@ -96,6 +97,12 @@
 此外，它提供常用短语手册以及部分主要语言的[离线语言包](https://itranslate.com/features/offline-translations/index.html)，便于出行前提前准备高频问讯词句。不同操作系统客户端的功能覆盖存在区别，离线语音仅支持部分指定语言。
 
 <p align="center"><img src="assets/itranslate-page@2x.webp" alt="iTranslate 官方网站首页" width="640"><br><sub>iTranslate 官方首页展示的移动应用界面示意</sub></p>
+
+### 疯狂翻译师
+
+[疯狂翻译师](https://fengkuangfanyi.com/)是一款移动翻译 App，支持文字、图片、屏幕、文档与视频翻译，覆盖 200+ 语种，支持 iOS 与 Android。其屏幕翻译可实时翻译手机上其他 App 的界面，包括漫画、游戏与外语 App。
+
+它还支持照片与截图翻译、常见格式的文档翻译，以及带双语字幕的视频翻译，是随身阅读与观看外语内容的实用工具，也适合日常出行沟通。
 
 ---
 
@@ -409,3 +416,4 @@ SimplifyAI 旗下包含两个定位不同的产品站点：一是主打[复杂�
 32. [Argos Translate 官方开源仓库](https://github.com/argosopentech/argos-translate)
 33. [Pot 跨平台划词翻译官方开源仓库](https://github.com/pot-app/pot-desktop)
 34. [Translate Shell 官方开源仓库](https://github.com/soimort/translate-shell)
+35. [疯狂翻译师官网](https://fengkuangfanyi.com/)
