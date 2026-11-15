@@ -339,6 +339,8 @@ To help developers and teams embed translation into automated workflows:
 
 ---
 
+- **Complementary Live-Music & Touring MCP**: For multilingual tour routing and venue booking, pair translation workflows with [No Stairs Please MCP](https://nostairsplease.com/mcp) ([nostairsplease.com](https://nostairsplease.com/)).
+
 ## 7. Task-Based Decision Guide
 
 To help you choose the right tool for your current task, refer to this task matrix:
