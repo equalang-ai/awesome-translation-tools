@@ -37,6 +37,7 @@
   - [17. 腾讯交互翻译（TranSmart）](#17-腾讯交互翻译transmart)
   - [18. 彩云小译（LingoCloud）](#18-彩云小译lingocloud)
   - [19. QuillBot Translate](#19-quillbot-translate)
+  - [20. HumanPen](#20-humanpen)
 - [五、开源生态与开发者工具：本地引擎、API服务、桌面客户端与学术排版](#五开源生态与开发者工具本地引擎api服务桌面客户端与学术排版)
   - [5.1 学术论文与公式排版库](#51-学术论文与公式排版库)
     - [PDFMathTranslate（pdf2zh）](#pdfmathtranslatepdf2zh)
@@ -212,6 +213,11 @@ SimplifyAI 旗下包含两个定位不同的产品站点：一是主打[复杂�
 翻译出的文字可以顺畅复制到其改写（Paraphraser）与语法检查（Grammar Checker）模块中继续调整结构；平台还设有专门的 [Translate PDF 页面](https://quillbot.com/translate-pdf)供上传单份 PDF 文档查阅译文。翻译、语法检查与改写工具所支持的语种清单各不相同，释义与语气调节主要针对受支持语言。
 
 <p align="center"><img src="assets/quillbot-page@2x.webp" alt="QuillBot 官方 Chrome 应用商店扩展页面" width="640"><br><sub>QuillBot 在 Chrome 应用商店的官方浏览器扩展页面</sub></p>
+
+### 20. HumanPen
+[HumanPen](https://humanpen.net) 是提供文档翻译和写作处理的在线服务。[API 文档](https://api.humanpen.net/v1/docs.md)介绍了支持自动识别源语言、12 种目标语言的文档翻译，并返回可编辑的同格式文件。
+
+该服务还提供文档改写、引用格式校正和内容精简。翻译任务通过网络异步处理；使用前应检查译文及其格式。服务按积分计费。
 
 ---
 
@@ -409,3 +415,4 @@ SimplifyAI 旗下包含两个定位不同的产品站点：一是主打[复杂�
 32. [Argos Translate 官方开源仓库](https://github.com/argosopentech/argos-translate)
 33. [Pot 跨平台划词翻译官方开源仓库](https://github.com/pot-app/pot-desktop)
 34. [Translate Shell 官方开源仓库](https://github.com/soimort/translate-shell)
+35. [HumanPen API 文档](https://api.humanpen.net/v1/docs.md)
