@@ -37,6 +37,7 @@ We are the **[Equalang](https://equalang.com/?utm_source=github)** team. This di
   - [TranSmart (Tencent Interactive Translation)](#transmart-tencent-interactive-translation)
   - [LingoCloud (Caiyun Xiaoyi)](#lingocloud-caiyun-xiaoyi)
   - [QuillBot Translate](#quillbot-translate)
+  - [HumanPen](#humanpen)
 - [5. Open-Source Ecosystem: Local Engines, APIs, Desktop Clients & Scientific PDF Pipelines](#5-open-source-ecosystem-local-engines-apis-desktop-clients--scientific-pdf-pipelines)
   - [5.1 Scientific & Academic PDF Pipelines](#51-scientific--academic-pdf-pipelines)
     - [PDFMathTranslate (pdf2zh)](#pdfmathtranslate-pdf2zh)
@@ -212,6 +213,11 @@ Its desktop software also features [LingoCloud Interpretation](https://www.caiyu
 Translated text can be copied smoothly into its Paraphraser and Grammar Checker to refine sentence flow. The platform also maintains a dedicated [Translate PDF page](https://quillbot.com/translate-pdf) for uploading and reviewing single PDF documents. Supported languages vary between the translation, grammar, and paraphrasing tools.
 
 <p align="center"><img src="assets/quillbot-page@2x.webp" alt="QuillBot official Chrome Web Store extension page" width="640"><br><sub>Official Chrome Web Store product page for the QuillBot browser extension</sub></p>
+
+### HumanPen
+[HumanPen](https://humanpen.net) is a hosted document-processing service with document translation and writing tools. Its [API documentation](https://api.humanpen.net/v1/docs.md) describes translation into 12 target languages with automatic source-language detection and an editable result in the source file format.
+
+The service also offers document rewriting, citation-format correction, and condensation. Translation is an asynchronous, network-based workflow; review the translated document and its formatting before use. The service uses credits.
 
 ---
 
@@ -409,3 +415,4 @@ To maintain the practical utility and factual accuracy of this directory, entrie
 32. [Argos Translate Official GitHub Repository](https://github.com/argosopentech/argos-translate)
 33. [Pot Desktop Translation Official GitHub Repository](https://github.com/pot-app/pot-desktop)
 34. [Translate Shell Official GitHub Repository](https://github.com/soimort/translate-shell)
+35. [HumanPen API Documentation](https://api.humanpen.net/v1/docs.md)
