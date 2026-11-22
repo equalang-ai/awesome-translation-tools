@@ -31,6 +31,7 @@ We are the **[Equalang](https://equalang.com/?utm_source=github)** team. This di
   - [SimplifyAI](#simplifyai)
   - [Lingvanex](#lingvanex)
   - [SYSTRAN](#systran)
+  - [EPUB Translator by LigaSoftware](#epub-translator-by-ligasoftware)
 - [4. Academic Writing, Refinement & Human-in-the-Loop Collaboration: Polishing the Output](#4-academic-writing-refinement--human-in-the-loop-collaboration-polishing-the-output)
   - [Youdao Translate (NetEase Youdao)](#youdao-translate-netease-youdao)
   - [Baidu Translate](#baidu-translate)
@@ -171,6 +172,11 @@ SYSTRAN targets enterprise and institutional localization requirements. Its clou
 For organizations with data sovereignty requirements, SYSTRAN provides [Translate Server](https://www.systransoft.com/translation-products/translate-server/) for on-premise deployment behind corporate firewalls, dedicated Private Cloud environments, and batch [APIs](https://www.systransoft.com/translation-products/translate-api/) for document pipelines.
 
 <p align="center"><img src="assets/systran-page@2x.webp" alt="SYSTRAN Translate Pro official product page" width="640"><br><sub>SYSTRAN Translate Pro official product overview interface</sub></p>
+
+### EPUB Translator by LigaSoftware
+[EPUB Translator by LigaSoftware](https://epub.ligasoftware.com/) is a browser-based translator that converts whole EPUB ebooks into Russian. Instead of processing text piece by piece, it reads the uploaded `.epub` file and returns a translated book that keeps the original reading order, table of contents, chapter structure, and embedded illustrations, so the result can be opened in a regular reader app. The source language does not have to be specified before upload, and translation runs over the entire book with visible progress. A preview of a translated fragment is shown before a full book is translated.
+
+Scope is limited to text-based EPUB files: pages that exist only as images and DRM-protected books are outside what the service handles.
 
 ---
 
